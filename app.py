@@ -8,7 +8,7 @@ import os
 import pandas as pd
 import datetime as dt
 
-# Nueva Prueba de sincronizado
+# Modificacion a archivo de richard.
 
 
 app = dash.Dash(
